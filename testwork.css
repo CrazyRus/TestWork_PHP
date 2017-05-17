@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.inputs {
+  margin-left: 10px;
+}
+.inputs ul li {
+  list-style: none;
+  margin-top: 10px;
+  font-size: 11pt;
+  font-family: Arial;
+  font-weight: bold;
+}
+input {
+  height: 20px;
+  width: 100px;
+}
+.begin {
+  padding-left: 10px;
+  margin: 10px 0 10px 0;
+}
